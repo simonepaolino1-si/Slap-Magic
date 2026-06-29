@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Slap-Magic/Content/FirstPerson/Blueprints/BP_BaseCharacter.uasset",
+				"E:/Slap-Magic/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"D:/ABABO/UNREAL Brusori/SECONDO ANNO/SLAP AND MAGIC/GITHUB/Slap-Magic/Content/ProceduralDungeons/BP_DungeonsRoom1.uasset",
 				"D:/ABABO/UNREAL Brusori/SECONDO ANNO/SLAP AND MAGIC/GITHUB/Slap-Magic/Content/SLAP_E_MAGIC/Props_stanze/lamp_post/scene/StaticMeshes/Cube_006_Wood_0.uasset",
 				"D:/ABABO/UNREAL Brusori/SECONDO ANNO/SLAP AND MAGIC/GITHUB/Slap-Magic/Content/SLAP_E_MAGIC/Props_stanze/lamp_post/scene/StaticMeshes/Cube_014_Metal1_0.uasset",

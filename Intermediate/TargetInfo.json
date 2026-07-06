@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SlapMagic",
+			"Path": "..\\Source\\SlapMagic.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SlapMagicEditor",
+			"Path": "..\\Source\\SlapMagicEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

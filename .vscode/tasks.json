@@ -1,0 +1,49 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "UE: Generate Clang Database (Editor Dev)",
+      "type": "shell",
+      "command": "E:\\UE5.6\\UE_5.6\\Engine\\Build\\BatchFiles\\Build.bat",
+      "args": [
+        "-Mode=GenerateClangDatabase",
+        "-Project=E:\\Slap-Magic\\SlapMagic.uproject",
+        "-Target=SlapMagicEditor Win64 Development"
+      ],
+      "options": { "cwd": "E:\\Slap-Magic" },
+      "problemMatcher": []
+    },
+    {
+      "label": "UE: Build Editor",
+      "type": "shell",
+      "command": "E:\\UE5.6\\UE_5.6\\Engine\\Build\\BatchFiles\\Build.bat",
+      "args": [
+        "SlapMagicEditor",
+        "Win64",
+        "Development",
+        "-Project=E:\\Slap-Magic\\SlapMagic.uproject",
+        "-WaitMutex",
+        "-NoHotReload"
+      ],
+      "options": { "cwd": "E:\\Slap-Magic" },
+      "problemMatcher": [],
+      "group": { "kind": "build", "isDefault": true }
+    },
+    {
+      "label": "UE: Rebuild Editor (Clean)",
+      "type": "shell",
+      "command": "E:\\UE5.6\\UE_5.6\\Engine\\Build\\BatchFiles\\Build.bat",
+      "args": [
+        "SlapMagicEditor",
+        "Win64",
+        "Development",
+        "-Project=E:\\Slap-Magic\\SlapMagic.uproject",
+        "-WaitMutex",
+        "-NoHotReload",
+        "-Clean"
+      ],
+      "options": { "cwd": "E:\\Slap-Magic" },
+      "problemMatcher": []
+    }
+  ]
+}

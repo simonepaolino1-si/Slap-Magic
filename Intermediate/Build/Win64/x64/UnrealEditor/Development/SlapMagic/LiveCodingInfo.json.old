@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SlapMagic.gen.cpp.obj": [
+			"CharacterBase.gen.cpp.obj",
+			"SlapMagic.init.gen.cpp.obj"
+		]
+	}
+}

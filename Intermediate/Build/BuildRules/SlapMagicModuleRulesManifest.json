@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Slap-Magic\\Source\\SlapMagic\\SlapMagic.Build.cs",
+		"E:\\Slap-Magic\\Source\\SlapMagic.Target.cs",
+		"E:\\Slap-Magic\\Source\\SlapMagicEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

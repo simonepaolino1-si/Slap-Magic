@@ -1,0 +1,42 @@
+[
+	{
+		"file": "E:\\Slap-Magic\\Source\\SlapMagic\\Characters\\CharacterBase.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Slap-Magic\\.vscode\\compileCommands_SlapMagic\\SlapMagic.1.rsp"
+		],
+		"directory": "E:\\UE5.6\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Slap-Magic\\Source\\SlapMagic\\Characters\\CharacterBase.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Slap-Magic\\.vscode\\compileCommands_SlapMagic\\SlapMagic.1.rsp"
+		],
+		"directory": "E:\\UE5.6\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Slap-Magic\\Source\\SlapMagic\\SlapMagic.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Slap-Magic\\.vscode\\compileCommands_SlapMagic\\SlapMagic.1.rsp"
+		],
+		"directory": "E:\\UE5.6\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Slap-Magic\\Source\\SlapMagic\\SlapMagic.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Slap-Magic\\.vscode\\compileCommands_SlapMagic\\SlapMagic.1.rsp"
+		],
+		"directory": "E:\\UE5.6\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Slap-Magic\\Source\\SlapMagic\\SlapMagic.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Slap-Magic\\.vscode\\compileCommands_SlapMagic\\SlapMagic.1.rsp"
+		],
+		"directory": "E:\\UE5.6\\UE_5.6\\Engine\\Source"
+	}
+]

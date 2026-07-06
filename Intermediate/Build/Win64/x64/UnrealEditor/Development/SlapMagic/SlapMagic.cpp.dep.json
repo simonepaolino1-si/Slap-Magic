@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\slap-magic\\source\\slapmagic\\slapmagic.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\slap-magic\\intermediate\\build\\win64\\x64\\slapmagiceditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "e:\\slap-magic\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\slapmagic\\definitions.slapmagic.h",
+            "e:\\slap-magic\\source\\slapmagic\\slapmagic.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
